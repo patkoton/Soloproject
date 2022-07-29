@@ -1,4 +1,4 @@
-# Simple Card App Preview
+# My Simple Card App Preview
 
 ![Design preview for the Expenses chart component coding challenge](./src/images/Screenshot%20(62).png)
 
